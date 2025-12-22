@@ -4,6 +4,6 @@
 # Установка зависимостей
 pip install -r requirements.txt
 
-Программа реализации getfield16 на языке Python расположена в /src
-
+#Рализация getfield16
 Размещение бинарного файла getfield16 в директории src/bin/
+Программа реализации getfield16 на языке Python расположена в /src
