@@ -18,7 +18,7 @@ def run_getfield16(binary_path):
     def _run(hex_string, start_bit):
         try:
             result = subprocess.run(
-                [binary_path, hex_string, str(start_bit)],
+                [binary_path, str(hex_string), str(start_bit)],
                 capture_output=True,
                 text=True,
                 timeout=5
