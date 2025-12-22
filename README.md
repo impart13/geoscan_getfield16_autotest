@@ -5,5 +5,5 @@
 pip install -r requirements.txt
 
 # Реализация getfield16
-Размещение бинарного файла getfield16 в директории src/bin/
-Программа реализации getfield16 на языке Python расположена в /src
+- Размещение бинарного файла getfield16 в директории src/bin/
+- Программа реализации getfield16 на языке Python расположена в /src
